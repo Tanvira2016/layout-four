@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.content {
+    height: 600px;
+    width: 100%;
+}
+.first{
+    background-color: blue;
+    height: 10%;
+    width: 100%;
+}
+.second{
+    background-color: blueviolet;
+    height: 10%;
+    width: 100%;
+}
+.third{
+    background-color: chartreuse;
+    height: 10%;
+    width: 100%;
+}
+.fourth{
+    background-color: brown;
+    height: 60%;
+    width: 100%;
+    display: flex;
+}
+.fifth{
+    background-color: red;
+    height: 10%;
+    width: 100%;
+}
+.right{
+    background-color: orange;
+    height: 100%;
+    width: 50%;
+}
+.left{
+    background-color: orchid;
+    height: 100%;
+    width: 50%;
+}
